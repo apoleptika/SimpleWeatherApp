@@ -10,7 +10,7 @@
 # If this module not exist in your computer you have to download and install it, c:\> pip install requests
 import requests
 
-apiKey="384b75b1694084bf267035ca09f495a3"
+apiKey="1234567890adefg9876543210dkslksd"
 webApiAddress="http://api.openweathermap.org/data/2.5/weather"
 country="TR"
 city="Antalya"
