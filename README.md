@@ -4,4 +4,4 @@ And as every beginner student she is struggling to understand coding. <br />
 variables, functions, data types, if then, loops, lists, dictionaries, modules, packages... <br />
 I decide to write this simple app to teach and show her what can she do with Python. <br />
 
-Aldin Romanov Aldinov <br /> 
+
